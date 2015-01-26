@@ -1,0 +1,11 @@
+/* COLORS */
+/* FONT STACKS */
+/******************************************************
+* MAIN.SCSS
+*	Main site element styles go in this file.
+*	Iclude styles for primary elements that are
+*	used site wide (a, h1, p, body, etc).
+\******************************************************/
+body { color: #222222; font-family: Arial, sans-serif; font-weight: normal; background: #aaa; }
+
+/*# sourceMappingURL=main.css.map */
