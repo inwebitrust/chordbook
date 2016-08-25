@@ -6,7 +6,7 @@
 <!--[if IE 9]>         <html class="no-js ie ie9 lt-ie10"> <![endif]-->
 <!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-    <title></title>
+    <title>tutu</title>
     <meta name="description" content="">
     <?php require("_/inc/head.php"); ?>
 </head>
